@@ -1,0 +1,23 @@
+{
+  "name": "wevim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devhulk/wevim.git"
+  },
+  "author": "devhulk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devhulk/wevim/issues"
+  },
+  "homepage": "https://github.com/devhulk/wevim#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "lodash": "^4.17.4"
+  }
+}
