@@ -1,0 +1,12 @@
+{
+  "name": "classifications",
+  "documents": [
+    {
+      "type": "Application Navigation Item",
+      "name": "WELCOME",
+      "description": "Welcome",
+      "link": "Welcome",
+      "icon": "fa-home-large"
+    }
+  ]
+}

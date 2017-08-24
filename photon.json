@@ -1,0 +1,39 @@
+{
+  "name": "wevim",
+  "title": "WeVim",
+  "description": "Collaboration platform",
+  "author": "devhulk",
+  "license": "MIT",
+  "version": "0.0.1",
+  "adminToken": "3c0f44197e10e2cb4a2e0fe749b88d03",
+  "reportToken": "21b7ab69c9605bdfee75bd492a5b9e6f",
+  "ux": "Default",
+  "frameworks": [
+    {
+      "name": "particle",
+      "type": "web"
+    },
+    {
+      "name": "neuron",
+      "type": "node-api"
+    }
+  ],
+  "containers": {
+    "db": {
+      "host": "localhost",
+      "port": "27017"
+    },
+    "nodeApi": {
+      "host": "localhost",
+      "port": "4000"
+    },
+    "web": {
+      "host": "localhost",
+      "port": "3000"
+    },
+    "agent": {
+      "host": "138.197.66.12",
+      "port": "5040"
+    }
+  }
+}

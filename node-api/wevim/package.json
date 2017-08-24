@@ -1,0 +1,26 @@
+{
+  "name": "wevim",
+  "version": "1.0.0",
+  "description": "Collaboration platform API",
+  "main": "node-api.js",
+  "scripts": {
+    "start": "node node-api.js",
+    "debug": "nodemon node-api.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devhulk/wevim.git"
+  },
+  "author": "devhulk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devhulk/wevim/issues"
+  },
+  "homepage": "https://github.com/devhulk/wevim#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.4",
+    "express": "^4.15.3",
+    "mongodb": "^2.2.30"
+  }
+}

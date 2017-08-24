@@ -1,0 +1,45 @@
+{
+  "name": "appDetails",
+  "documents": [
+    {
+      "type" : "User Experience",
+      "name": "Default",
+      "baseColor": "#FFFFFF",
+      "highlightColor": "#00BBD8",
+      "siteBackground": "#FFFFFF",
+      "cardBackground": "rgba(0, 0, 0, 0.4)",
+      "menuBackground": "rgba(0, 0, 0, 0.8)"
+    },
+    {
+      "type" : "View",
+      "name": "CodeEditor",
+      "title": "WEVIM",
+      "description": "WEVIM",
+      "background": "",
+      "viewType": "BasicView",
+      "viewModel": "classifications",
+      "viewModelType": "Application Category",
+      "detailView": "",
+      "isDefault": "true",
+      "isMenu": "false", 
+      "isNavigable": "false",
+      "isProtected": "true",
+      "viewItems": []
+    },
+    {
+      "type" : "View",
+      "name": "Login",
+      "title": "Login",
+      "description": "Login",
+      "background": "",
+      "viewType": "login",
+      "viewModel": "users",
+      "detailView": "",
+      "isDefault": "false",
+      "isMenu": "false",
+      "isNavigable": "true",
+      "isProtected": "false",
+      "viewItems": []
+    }
+  ]
+}

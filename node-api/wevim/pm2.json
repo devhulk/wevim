@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "node-api",
+      "script": "npm",
+      "args": "run debug"
+    }
+  ]
+}
