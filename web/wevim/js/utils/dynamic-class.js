@@ -3,6 +3,7 @@ import TextField from '../components/text-field'
 import Card from '../components/card'
 import LightControl from '../components/light-control'
 import NavItem from '../components/nav-item'
+import CodeEditor from '../containers/code-editor'
 import Login from '../containers/login'
 import Login from '../containers/login'
 import AppNav from '../containers/app-nav'
@@ -15,6 +16,7 @@ const classes = {
   Card,
   LightControl,
   NavItem,
+  CodeEditor,
   Login,
   Login,
   AppNav

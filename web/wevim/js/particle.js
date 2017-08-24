@@ -3,7 +3,7 @@ import DynamicClass from './utils/dynamic-class'
 
 export default class Particle {
   constructor() {
-    document.body.style.background = '#FFFFFF'
+    document.body.style.background = '#000000'
     document.body.style.backgroundSize = 'cover'
     document.body.style.height = '100%'
     document.body.style.margin = '0'

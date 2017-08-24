@@ -5,8 +5,8 @@
       "type": "Application Navigation Item",
       "name": "WELCOME",
       "description": "Welcome",
-      "link": "Welcome",
-      "icon": "fa-home-large"
+      "link": "CodeEditor",
+      "icon": "fa-home"
     }
   ]
 }

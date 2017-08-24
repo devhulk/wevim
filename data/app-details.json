@@ -6,7 +6,7 @@
       "name": "Default",
       "baseColor": "#FFFFFF",
       "highlightColor": "#00BBD8",
-      "siteBackground": "#FFFFFF",
+      "siteBackground": "#000000",
       "cardBackground": "rgba(0, 0, 0, 0.4)",
       "menuBackground": "rgba(0, 0, 0, 0.8)"
     },
@@ -21,8 +21,7 @@
       "viewModelType": "Application Category",
       "detailView": "",
       "isDefault": "true",
-      "isMenu": "false", 
-      "isNavigable": "false",
+      "isNavigable": "true",
       "isProtected": "true",
       "viewItems": []
     },
