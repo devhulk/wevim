@@ -16,7 +16,7 @@
       "title": "WEVIM",
       "description": "WEVIM",
       "background": "",
-      "viewType": "BasicView",
+      "viewType": "CodeEditor",
       "viewModel": "classifications",
       "viewModelType": "Application Category",
       "detailView": "",
